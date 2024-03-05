@@ -20,5 +20,7 @@ I'm a Computer Science and Applied Mathematics & Statistics student at Stony Bro
 - [LinkedIn](https://www.linkedin.com/in/mohammedamirhamza/)
 - [GitHub](https://github.com/mohamzamir)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamzamir&layout=compact)
 ---
 Feel free to reach out for collaborations or just to connect!
