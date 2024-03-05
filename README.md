@@ -1,13 +1,24 @@
-# Hello Friends! 😎
+# Amir Hamza
 
-I'm currently pursuing my Bachelor of Science in Computer Science and Applied Mathemactics & Statistics at [Stony Brook University](https://www.stonybrook.edu/).
+## 👨‍💻 About Me
+I'm a Computer Science and Applied Mathematics & Statistics student at Stony Brook University, with a passion for developing innovative solutions and exploring the intersection of technology and math. I'm currently the President of the Stony Brook Computing Society, where I lead initiatives to bridge the gap between academia and industry.
 
-## 🛠 Skills 
-- **Languages:** Java, Python, C, C++, OCaml, HTML, CSS, JavaScript, MIPS, Scala, MySQL
-- **Utilities:** MongoDB, Google Cloud, Flask, TensorFlow, Pytorch, Keras, Unity
+## 🛠 Skills
+- **Programming Languages:** Java, Python, C, C++, OCaml, HTML, CSS, JavaScript, MIPS, Scala, MySQL
+- **Technologies and Tools:** MongoDB, Google Cloud, Flask, TensorFlow, PyTorch, Keras, Unity
 
-## 👥 Community Engagement
-Serving as the President of the [Stony Brook Computing Society](https://www.sbcs.io), I am involved with bridging the gap between the academic and professional work by connecting the students with industry professionals. I've played an important role in organizing events and talks, and forging collaborations that have increased event attendance and engagement.
+## 📚 Education
+- **Bachelor of Science in Computer Science and Applied Mathematics & Statistics**
+  - Stony Brook University
 
-## 🤝 Let's Connect!
-Feel free to reach out or follow my journey on [LinkedIn](https://www.linkedin.com/in/mohammedamirhamza/) or check out my [GitHub repositories](https://github.com/mohamzamir?tab=repositories) for more in depth view into my projects and contributions.
+## 💼 Experience
+- **President, Stony Brook Computing Society**
+  - Organized events and talks to connect students with industry professionals.
+  - Increased event attendance and engagement through strategic collaborations.
+
+## 🌐 Social Links
+- [LinkedIn](https://www.linkedin.com/in/mohammedamirhamza/)
+- [GitHub](https://github.com/mohamzamir)
+
+---
+Feel free to reach out for collaborations or just to connect!
